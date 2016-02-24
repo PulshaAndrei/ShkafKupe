@@ -98,7 +98,7 @@ to{opacity:0;-webkit-transform:scale(100);transform:scale(100);}
 .pricings{margin-top:50px;margin-bottom:100px;}
 .pricing{position:relative;width:100%;}
 .pricings .pricing .box-main,
-.pricings .pricing .box-second{position:relative;left:25%;display:inline-block;width:50%;height:300px;padding:50px 40px;background:#bbb;-webkit-transition:-webkit-transform 0.3s, background-image 0.3s, opacity 0.3s;transition:transform 0.3s, background-image 0.3s, opacity 0.3s;-webkit-backface-visibility:hidden;backface-visibility:hidden;}
+.pricings .pricing .box-second{position:relative;left:25%;display:inline-block;width:50%;height:100%;padding:50px 40px;background:#bbb;-webkit-transition:-webkit-transform 0.3s, background-image 0.3s, opacity 0.3s;transition:transform 0.3s, background-image 0.3s, opacity 0.3s;-webkit-backface-visibility:hidden;backface-visibility:hidden;}
 .pricings .pricing .box-main{z-index:10;padding-top:40px;}
 .pricings .pricing .box-main:not(.active){cursor:pointer;}
 .pricings .pricing .box-main .info-icon{font-size:14px;position:absolute;top:20px;right:20px;pointer-events:none;opacity:0;color:#fff;-webkit-transition:opacity 0.3s;transition:opacity 0.3s;}
